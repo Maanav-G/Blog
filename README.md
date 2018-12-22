@@ -2,7 +2,7 @@
 A blog served on a web application using Django 1.9
 
 ## Preview 
-Soon to come 
+Link soon to come 
 
 ## Onboarding 
 If you want to download and view this blog locally follow along with the instructions underneath using your command line
