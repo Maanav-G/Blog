@@ -49,4 +49,6 @@ If you want to download and view this blog locally follow along with the instruc
     python manage.py runserver
     ```
 
+## Thanks 
+If you got this far, and went through the instructions (that I didn't think anyone would bother going through), then congratualations! 
 
