@@ -49,6 +49,12 @@ If you want to download and view this blog locally follow along with the instruc
     python manage.py runserver
     ```
 
+## Upcoming 
+- Bug fixes 
+- Adding user accounts 
+- Making it more aesthetically pleasing 
+- Publishing it online
+
 ## Thanks 
 If you got this far, and went through the instructions (that I didn't think anyone would bother going through), then congratualations! 
 
